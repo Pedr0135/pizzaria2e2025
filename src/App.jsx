@@ -57,10 +57,7 @@ return (
     <Formulario nome ="Davi" sombra ="Digite idade..."/>
     <Formulario nome ="Moises" sombra ="Digite time..."/>
     <Formulario nome ="Elias" sombra ="valor de pi"/>
-    <Formula/>
-    <Formula/>
-    <Formula/>
-    <Formula/>
+
 
   </div>
 
